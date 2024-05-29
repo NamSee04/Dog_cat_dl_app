@@ -3,6 +3,11 @@
 ## Purpose
 
 The purpose of this project is to correctly classify dog-cat based on real world images.
+![Main Page](app/img/exp.png)
+
+## You can visit this pages to try
+
+[Dogs vs. Cats](https://dogcatdlapp-namsee.streamlit.app/).
 
 ## Project Structure
 
@@ -30,7 +35,6 @@ The purpose of this project is to correctly classify dog-cat based on real world
 ## Project Setup
 
 How does the Web App to **predict** Dog-Cat works?
-![Main Page](app/img/exp.png)
 
 ### Clone this repository
 
