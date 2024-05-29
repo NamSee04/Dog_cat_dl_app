@@ -1,0 +1,15 @@
+name: Dog_Cat_app
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - jupyter=1.0.0
+  - python=3.12.3
+  - pip=24.0
+  - pip:
+    - keras==3.3.3
+    - joblib==1.4.2
+    - tensorflow==2.16.1
+    - streamlit
+    - scikit-learn==1.5.0
+    - numpy==1.26.4
