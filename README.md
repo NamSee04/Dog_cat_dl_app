@@ -13,9 +13,10 @@ The purpose of this project is to correctly classify dog-cat based on real world
 │   
 ├───app
 │   │   app.py
-│   │   
+│   │
 │   └───img
 │           anya.png
+│           exp.png
 │
 └───src
     │   dog-cat-prediction.ipynb
@@ -29,11 +30,12 @@ The purpose of this project is to correctly classify dog-cat based on real world
 ## Project Setup
 
 How does the Web App to **predict** Dog-Cat works?
+![Main Page](app/img/exp.png)
 
 ### Clone this repository
 
 ```shell
-(base)$: git clone https://github.com/NamSee04/Dog_cat_dl_app.git
+(base)$: git clone git@github.com:mafda/knee_OA_dl_app.git
 (base)$: cd DOG_CAT_DL_APP
 ```
 
