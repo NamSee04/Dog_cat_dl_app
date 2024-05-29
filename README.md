@@ -37,7 +37,7 @@ How does the Web App to **predict** Dog-Cat works?
 ### Clone this repository
 
 ```shell
-(base)$: git clone git@github.com:mafda/knee_OA_dl_app.git
+(base)$: git clone https://github.com/NamSee04/Dog_cat_dl_app.git
 (base)$: cd DOG_CAT_DL_APP
 ```
 
